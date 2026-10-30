@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "login": "Alberviz",
+  "seed": "#5B5FEF",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "projects",
+    "stack",
+    "wave",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Alberto",
+    "subtitle": "I reverse-engineer my hardware and build what drives it",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "school",
+        "label": "Math & CS"
+      },
+      {
+        "icon": "brand:archlinux",
+        "label": "Arch + Hyprland"
+      },
+      {
+        "icon": "memory",
+        "label": "Low-level"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "usb",
+        "label": "Sniffing USB HID traffic to unlock Windows-only peripherals"
+      },
+      {
+        "icon": "wallpaper",
+        "label": "Building my own Linux desktop shell in QML, shaders included"
+      },
+      {
+        "icon": "mic",
+        "label": "Running AI locally: speech-to-text, LLM tool calling and TTS"
+      },
+      {
+        "icon": "trophy",
+        "label": "Competitive programming in C++ on the side"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:qt",
+            "label": "QML / Qt"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "LinuxRicing",
+      "JoseoKings-Hackyeah",
+      "gts2-mando",
+      "Alberviz.github.io"
+    ],
+    "overrides": {
+      "LinuxRicing": {
+        "icon": "palette",
+        "text": "Hyprland rice where every RGB peripheral follows the wallpaper, with reverse-engineered USB protocols"
+      },
+      "JoseoKings-Hackyeah": {
+        "icon": "favorite",
+        "text": "MyCrohnie: HackYeah 2026 PWA for children with Crohn's disease and their families"
+      },
+      "gts2-mando": {
+        "icon": "brand:android",
+        "text": "Android app that turns a smartwatch's music screen into a 3-button remote"
+      },
+      "Alberviz.github.io": {
+        "icon": "public",
+        "text": "My portfolio and the Krakount showcase, built with Next.js, GSAP and Tailwind"
+      }
+    },
+    "empty": "",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages",
+    "showLanguages": false
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/Alberviz"
+      },
+      {
+        "icon": "public",
+        "url": "https://alberviz.github.io"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [],
+    "card": true
+  }
+}
