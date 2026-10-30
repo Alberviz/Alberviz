@@ -1,0 +1,266 @@
+{
+ "key": "4f77199a",
+ "stars": 0,
+ "contributions": 1561,
+ "repos": 8,
+ "followers": 2,
+ "languages": [
+  [
+   "HTML",
+   2510901
+  ],
+  [
+   "QML",
+   1885514
+  ],
+  [
+   "TypeScript",
+   1647172
+  ],
+  [
+   "Python",
+   730905
+  ],
+  [
+   "JavaScript",
+   89528
+  ],
+  [
+   "Lua",
+   84480
+  ],
+  [
+   "GLSL",
+   64622
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 27,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 21,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 60,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 36,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 128,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 150,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 10,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 40,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 17,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 49,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 30,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 27,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 83,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 25,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 40,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 258,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 24,
+    "day": 30,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 20,
+  "longest": 20
+ },
+ "pins": [
+  {
+   "name": "Alberviz.github.io",
+   "url": "https://github.com/Alberviz/Alberviz.github.io",
+   "text": "Alberto Vizcaino Ponte - Mathematics & CS Engineer Portfolio & Krakount Showcase",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "LinuxRicing",
+   "url": "https://github.com/Alberviz/LinuxRicing",
+   "text": "Hyprland + Quickshell (Caelestia) rice where every RGB peripheral follows the wallpaper's Material You palette — with reverse-engineered USB HID protocols for keyboards, mice and headsets.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "arch-linux",
+    "caelestia",
+    "dotfiles",
+    "hyprland",
+    "linux-rice",
+    "material-you",
+    "quickshell",
+    "reverse-engineering",
+    "rgb",
+    "usb-hid"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "Alberviz",
+   "url": "https://github.com/Alberviz/Alberviz",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Alberviz.github.io",
+   "url": "https://github.com/Alberviz/Alberviz.github.io",
+   "text": "Alberto Vizcaino Ponte - Mathematics & CS Engineer Portfolio & Krakount Showcase",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "gts2-mando",
+   "url": "https://github.com/Alberviz/gts2-mando",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "aurora-site",
+   "url": "https://github.com/Alberviz/aurora-site",
+   "text": "Página y política de privacidad de Aurora (asistente personal)",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "gym-hub-legal",
+   "url": "https://github.com/Alberviz/gym-hub-legal",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "JoseoKings-Hackyeah",
+   "url": "https://github.com/Alberviz/JoseoKings-Hackyeah",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "LinuxRicing",
+   "url": "https://github.com/Alberviz/LinuxRicing",
+   "text": "Hyprland + Quickshell (Caelestia) rice where every RGB peripheral follows the wallpaper's Material You palette — with reverse-engineered USB HID protocols for keyboards, mice and headsets.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "arch-linux",
+    "caelestia",
+    "dotfiles",
+    "hyprland",
+    "linux-rice",
+    "material-you",
+    "quickshell",
+    "reverse-engineering",
+    "rgb",
+    "usb-hid"
+   ]
+  },
+  {
+   "name": "competitiva",
+   "url": "https://github.com/Alberviz/competitiva",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  }
+ ]
+}
