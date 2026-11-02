@@ -1,7 +1,7 @@
 {
- "key": "413f6547",
+ "key": "efffef07",
  "stars": 0,
- "contributions": 2012,
+ "contributions": 2013,
  "repos": 8,
  "followers": 2,
  "languages": [
@@ -113,9 +113,13 @@
    {
     "c": 60,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -124,8 +128,8 @@
   ]
  ],
  "streak": {
-  "current": 22,
-  "longest": 22
+  "current": 23,
+  "longest": 23
  },
  "pins": [
   {
